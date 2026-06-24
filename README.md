@@ -6,11 +6,12 @@ A screenshot of the dashboard displaying the sample data is shown below.
 
 To run it locally, make sure you have [Streamlit](https://streamlit.io/) installed: 
 
-Do 
-`git clone https://github.com/Hasith2005/bisca-dashboard.git`
-`cd bisca-dashboard`
-`streamlit run app.py`
-
+Do
+```
+git clone https://github.com/Hasith2005/bisca-dashboard.git
+cd bisca-dashboard
+streamlit run app.py
+```
 Interact with your data!
 
 
