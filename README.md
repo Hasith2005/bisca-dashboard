@@ -12,6 +12,9 @@ git clone https://github.com/Hasith2005/bisca-dashboard.git
 cd bisca-dashboard
 streamlit run app.py
 ```
-Interact with your data!
+
+You can edit the values for virgin filament emissions and recycled filament emissions in `app.py` by changing the `v_*` and `r_*` variables. 
+
+
 
 
